@@ -1,0 +1,20 @@
+Type,Tag,Content
+Heading,h1,Web Scraping Sandbox
+Heading,h2,Books
+Heading,h2,Quotes
+Paragraph,p,Afictional bookstorethat desperately wants to be scraped. It's a safe place for beginners learning web scraping and for developers validating their scraping technologies as well. Available at:books.toscrape.com
+Paragraph,p,"A websitethat lists quotes from famous people. It has many endpoints showing the quotes in many different ways, each of them including new scraping challenges for you, as described below."
+Link,a,Text: fictional bookstore | URL: http://books.toscrape.com
+Link,a,Text: books.toscrape.com | URL: http://books.toscrape.com
+Link,a,Text:  | URL: http://books.toscrape.com
+Link,a,Text: A website | URL: http://quotes.toscrape.com/
+Link,a,Text:  | URL: http://quotes.toscrape.com
+Link,a,Text: Default | URL: http://quotes.toscrape.com/
+Link,a,Text: Scroll | URL: http://quotes.toscrape.com/scroll
+Link,a,Text: JavaScript | URL: http://quotes.toscrape.com/js
+Link,a,Text: Delayed | URL: http://quotes.toscrape.com/js-delayed
+Link,a,Text: Tableful | URL: http://quotes.toscrape.com/tableful
+Link,a,Text: Login | URL: http://quotes.toscrape.com/login
+Link,a,Text: ViewState | URL: http://quotes.toscrape.com/search.aspx
+Link,a,Text: Random | URL: http://quotes.toscrape.com/random
+Meta,title,Scraping Sandbox
